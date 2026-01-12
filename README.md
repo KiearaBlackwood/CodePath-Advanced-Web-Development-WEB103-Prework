@@ -37,7 +37,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<video width="600" controls> <source src="Creatorverse.mp4" type="video/mp4"> </video>
+👉🏿<img src='http://i.imgur.com/link/to/your/gif
+
+https://github.com/user-attachments/assets/8bf8a2b0-b969-4ba5-be2a-adf96d38399e
+
+/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
