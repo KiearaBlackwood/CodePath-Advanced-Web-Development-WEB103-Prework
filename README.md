@@ -37,8 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='Creatorverse.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<video width="600" controls> <source src="Creatorverse.mp4" type="video/mp4"> </video>
+👉🏿<video width="600" controls> <source src="Creatorverse.mp4" type="video/mp4"> </video>
 
 ## Notes
 
