@@ -43,7 +43,7 @@ Here's a walkthrough of implemented required features:
 
 Describe any challenges encountered while building the app or any additional context you'd like to add. 
 
-One of the main challenges that I had was managing the layout of the creator profiles using PicoCSS. Specifically, ensuring that buttons remained horizontal and properly spaced within a grid when multiple creators are added to the ViewCreator page. Additionally, setting up the Supabase client database and ensuring that the id was correctly passed through the React Router.
+One of the main challenges that I had was managing the layout of the creator profiles using PicoCSS. Specifically, ensuring that buttons remained horizontal and properly spaced within the grid when multiple creators were added to the ViewCreator page. Additionally, setting up the Supabase database and ensuring that the id was correctly passed through the React Router.
 
 ## License
 
